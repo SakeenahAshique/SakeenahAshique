@@ -1,0 +1,58 @@
+body {
+    background-color: #000000;
+    
+    }
+    .container{
+
+    }
+
+.myname{
+    font-family: "Alegreya Sans SC", Verdana, Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 40px;
+
+}
+
+.bg{
+    background-size: cover;
+    background-position: center;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.aboutme{
+    font-family: "Alegreya Sans SC", Verdana, Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: x-large;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size:medium;
+
+}
+
+
+
+#resume{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#linkedin{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#behance{
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+
+
+
